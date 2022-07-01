@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: https://www.zoomkoding.com/hwnm-study/sitemap/sitemap-index.xml
-Host: https://www.zoomkoding.com
+Sitemap: https://hwanimi.github.io/hwnm-study/sitemap/sitemap-index.xml
+Host: https://hwanimi.github.io
